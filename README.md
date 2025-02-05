@@ -11,10 +11,10 @@ This repository contains an implementation of Principal Component Analysis (PCA)
 
 ### Part 2: Matrix Eigenvalue calculation
 
-- Analysis of a 3x3 matrix
+- Analysis of a matrix
 - Calculation of eigenvalues and eigenvectors
 - Determination of eigenvalue importance in percentage form
-- Collaborative work documented on Miro whiteboard
+- Collaborative work documented on Miro whiteboard: https://miro.com/app/board/uXjVLjMBgbs=/
 
 ### Key Features
 
